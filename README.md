@@ -1,4 +1,4 @@
-gump
-====
+Geojson-test
+============
 
-Places I’ve ran
+Github automatically shows the contents of a geojson-file as a map. Try clicking [kolbeinsvarden.geojson].
